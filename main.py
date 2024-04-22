@@ -10,13 +10,13 @@ data = {
             "id": 1,
             "titulo": "Tarea 1",
             "descripcion": "Descripción de la tarea 1",
-            "usuario_id": 1
+            "usuario_id": 1111
         },
         {
             "id": 2,
             "titulo": "Tarea 2",
             "descripcion": "Descripción de la tarea 2",
-            "usuario_id": 2
+            "usuario_id": 2222
         }
     ]
 }
