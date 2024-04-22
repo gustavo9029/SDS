@@ -3,6 +3,8 @@ from werkzeug.exceptions import HTTPException
 
 app = Flask(__name__)
 
+# this is a comment from a second developer
+
 # In-memory data structure for tasks
 data = {
     "tareas": [
